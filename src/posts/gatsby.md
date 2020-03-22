@@ -3,8 +3,9 @@ title: "The Great Gatsby Bootcamp"
 date: "2020-03-17"
 ---
 
-# I just watched a new bootcamp !
+I just watched a new bootcamp !
 
+![Network](./network.jpg)
 ## Topics
 
 1. Gatsby
